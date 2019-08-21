@@ -1,2 +1,2 @@
 # dev-null
-Testing repository
+Testing repository /dev/null
